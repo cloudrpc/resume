@@ -73,7 +73,7 @@ Talented and detail-oriented software engineer with a background in cloud native
 | Phone    | <a href="tel:+17742704981" style="color:{palette.text.primary}">(774) 270-4981</a>                                   |
 | Website  | <a href="https://ryancanty.dev" target="website" style="color:{palette.text.primary}">ryancanty.dev</a>              |
 | LinkedIn | <a href="https://www.linkedin.com/in/ryan-canty/" target="LinkedIn" style="color:{palette.text.primary}">Profile</a> |
-| GitHub   | <a href="https://github.com/nayrcloud/" target="GitHub" style="color:{palette.text.primary}">nayrcloud</a>           |
+| GitHub   | <a href="https://github.com/cloudrpc/" target="GitHub" style="color:{palette.text.primary}">cloudrpc</a>             |
 
 ## Experience
 
@@ -81,7 +81,7 @@ Talented and detail-oriented software engineer with a background in cloud native
 
 _December 2022 — Present_
 
-Cloud application architecture and development consultant for the AWS Professional Services Service Delivery Team. Designing and building applications on AWS for customers.
+Cloud application architecture and development consultant for the AWS Professional Services Shared Delivery Team. Designing and building applications on AWS for customers.
 
 ### **Preddio Technologies Inc.** — Application Engineer
 
