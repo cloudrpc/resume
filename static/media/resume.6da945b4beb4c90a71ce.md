@@ -69,7 +69,7 @@ Talented and detail-oriented software engineer with a background in cloud native
 |          |                                                                                                                      |
 | -------- | -------------------------------------------------------------------------------------------------------------------- |
 | Location | Boston, Massachusetts                                                                                                |
-| Email    | <a href="mailto:nayr.cloud@gmail.com" style="color:{palette.text.primary}">nayr.cloud @ gmail.com</a>                |
+| Email    | <a href="mailto:ryan.canty.dev@gmail.com" style="color:{palette.text.primary}">ryan.canty.dev @ gmail.com</a>        |
 | Phone    | <a href="tel:+17742704981" style="color:{palette.text.primary}">(774) 270-4981</a>                                   |
 | Website  | <a href="https://ryancanty.dev" target="website" style="color:{palette.text.primary}">ryancanty.dev</a>              |
 | LinkedIn | <a href="https://www.linkedin.com/in/ryan-canty/" target="LinkedIn" style="color:{palette.text.primary}">Profile</a> |
